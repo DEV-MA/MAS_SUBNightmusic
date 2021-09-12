@@ -1,6 +1,0 @@
-Copia la carpeta "game" dentro de la carpeta donde esta instalado Monika After Story.
-Eso es todo
-
-Para activar Nightmusic:
-
-Crea una carpeta dentro de donde esta instalado Monika after Story y llama "nightmusic", luego coloca tu musica en formato .mp3 o .ogg.
