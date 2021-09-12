@@ -9,7 +9,7 @@ init -990 python in mas_submod_utils:
             "Este submod le permite a Monika tocar una canción para pasar el tiempo con ella por las noches.\n"
             "Compatible con {a=https://github.com/Booplicate/MAS-Submods-YouTubeMusic/releases/latest}{i}{u}Youtube Music{/u}{/i}{/a}."
         ),
-        version="2.1.5",
+        version="2.1.5.1",
         settings_pane="nightmusic_settings",
         dependencies=__nm_deps,
     )
